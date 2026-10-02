@@ -41,6 +41,30 @@ side of this work is held closely rather than published.
 
 ---
 
+## Research lineage
+
+This is not a standalone project. It is the continuation of an ongoing line of
+research into the relationship between phishing susceptibility and personality,
+previously published in peer-reviewed research journals and presented at
+conferences in the field:
+
+- *Phishing vulnerability and personality traits: Insights from a systematic
+  review*
+- *Human susceptibility to phishing attacks based on personality traits: The
+  role of neuroticism*
+- *The role of extraversion in phishing victimisation: A systematic literature
+  review*
+
+That earlier work established, through systematic review, that personality
+traits are associated with phishing susceptibility, and examined neuroticism
+and extraversion in particular. What it could not do, by the nature of a
+literature review, is test the mechanism directly or measure what happens when
+a pretext is deliberately tailored to a profile. That is what this platform
+exists to do: move the question from reviewed association to controlled,
+instrumented experiment.
+
+---
+
 ## How the system works
 
 Three components, each solving a different part of the measurement problem.
