@@ -43,25 +43,41 @@ side of this work is held closely rather than published.
 
 ## Research lineage
 
-This is not a standalone project. It is the continuation of an ongoing line of
-research into the relationship between phishing susceptibility and personality,
-previously published in peer-reviewed research journals and presented at
-conferences in the field:
+This is not a standalone project. It continues an established line of research
+into the relationship between phishing susceptibility and personality,
+published in peer-reviewed journals and presented at conferences in the field.
 
-- *Phishing vulnerability and personality traits: Insights from a systematic
-  review*
-- *Human susceptibility to phishing attacks based on personality traits: The
-  role of neuroticism*
-- *The role of extraversion in phishing victimisation: A systematic literature
-  review*
+> **López-Aguilar, P., & Solanas, A. (2021).** Human susceptibility to phishing
+> attacks based on personality traits: The role of neuroticism. *2021 IEEE 45th
+> Annual Computers, Software, and Applications Conference (COMPSAC)*.
+> [doi:10.1109/COMPSAC51774.2021.00192](https://doi.org/10.1109/COMPSAC51774.2021.00192)
+>
+> **López-Aguilar, P., Patsakis, C., & Solanas, A. (2022).** The role of
+> extraversion in phishing victimisation: A systematic literature review.
+> *2022 APWG Symposium on Electronic Crime Research (eCrime)*.
+> [doi:10.1109/eCrime57793.2022.10142078](https://doi.org/10.1109/eCrime57793.2022.10142078)
+>
+> **López-Aguilar, P., Urruela, C., Batista, E., Machin, J., & Solanas, A.
+> (2025).** Phishing vulnerability and personality traits: Insights from a
+> systematic review. *Computers in Human Behavior Reports*, 20, 100784.
+> [doi:10.1016/j.chbr.2025.100784](https://doi.org/10.1016/j.chbr.2025.100784)
 
-That earlier work established, through systematic review, that personality
-traits are associated with phishing susceptibility, and examined neuroticism
-and extraversion in particular. What it could not do, by the nature of a
-literature review, is test the mechanism directly or measure what happens when
-a pretext is deliberately tailored to a profile. That is what this platform
-exists to do: move the question from reviewed association to controlled,
-instrumented experiment.
+López-Aguilar and Solanas (2021) found no well-established psychological theory
+accounting for the role of neuroticism in phishing, and no unanimity across the
+literature, attributing the disagreement largely to non-representative samples
+and a lack of homogeneity between studies. López-Aguilar et al. (2022) applied
+the same systematic treatment to extraversion. López-Aguilar et al. (2025)
+synthesised the field more broadly, reporting extraversion, agreeableness and
+neuroticism as positively associated with vulnerability, with
+conscientiousness acting as a protective factor.
+
+What none of that can do, by the nature of a systematic review, is test the
+mechanism directly or measure what happens when a pretext is deliberately
+tailored to a profile. The reviews establish association and expose exactly
+why the field disagrees: inconsistent samples and incomparable study designs.
+This platform is built to answer the same question under conditions the
+reviews identified as missing, moving it from reviewed association to
+controlled, instrumented experiment.
 
 ---
 
