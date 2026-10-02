@@ -47,20 +47,20 @@ This is not a standalone project. It continues an established line of research
 into the relationship between phishing susceptibility and personality,
 published in peer-reviewed journals and presented at conferences in the field.
 
-> **López-Aguilar, P., & Solanas, A. (2021).** Human susceptibility to phishing
-> attacks based on personality traits: The role of neuroticism. *2021 IEEE 45th
-> Annual Computers, Software, and Applications Conference (COMPSAC)*.
-> [doi:10.1109/COMPSAC51774.2021.00192](https://doi.org/10.1109/COMPSAC51774.2021.00192)
+> **López-Aguilar, P., Urruela, C., Batista, E., Machin, J., & Solanas, A.
+> (2025).** Phishing vulnerability and personality traits: Insights from a
+> systematic review. *Computers in Human Behavior Reports*, 20, 100784.
+> [doi:10.1016/j.chbr.2025.100784](https://doi.org/10.1016/j.chbr.2025.100784)
 >
 > **López-Aguilar, P., Patsakis, C., & Solanas, A. (2022).** The role of
 > extraversion in phishing victimisation: A systematic literature review.
 > *2022 APWG Symposium on Electronic Crime Research (eCrime)*.
 > [doi:10.1109/eCrime57793.2022.10142078](https://doi.org/10.1109/eCrime57793.2022.10142078)
 >
-> **López-Aguilar, P., Urruela, C., Batista, E., Machin, J., & Solanas, A.
-> (2025).** Phishing vulnerability and personality traits: Insights from a
-> systematic review. *Computers in Human Behavior Reports*, 20, 100784.
-> [doi:10.1016/j.chbr.2025.100784](https://doi.org/10.1016/j.chbr.2025.100784)
+> **López-Aguilar, P., & Solanas, A. (2021).** Human susceptibility to phishing
+> attacks based on personality traits: The role of neuroticism. *2021 IEEE 45th
+> Annual Computers, Software, and Applications Conference (COMPSAC)*.
+> [doi:10.1109/COMPSAC51774.2021.00192](https://doi.org/10.1109/COMPSAC51774.2021.00192)
 
 López-Aguilar and Solanas (2021) found no well-established psychological theory
 accounting for the role of neuroticism in phishing, and no unanimity across the
