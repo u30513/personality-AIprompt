@@ -121,6 +121,13 @@ links, no attachments, and no request for sensitive data - so a generated
 message remains a simulation independently of how the delivery platform is
 configured.
 
+The **[prompt template](prompt_template.md)** is published here for
+reproducibility. It is the part of the method that can be examined and
+critiqued without handing over a working capability: what gets asked for, and
+the constraints the request is bounded by. What is not published is everything
+around it, namely the OSINT collection, the binding of a profile to a prompt,
+and the campaign orchestration.
+
 ---
 
 ## Study design
@@ -151,10 +158,12 @@ warning - is the mechanism that keeps the design both valid and ethical.
 
 ## Why the source is private
 
-- The generation pipeline is, by construction, a working method for turning a
-  personality profile plus public information about a person into a convincing
-  targeted pretext. Describing that is research; publishing it is
-  distribution.
+- The pipeline around the prompt is, by construction, a working method for
+  turning a personality profile plus public information about a person into a
+  convincing targeted pretext. The prompt design is published so the method
+  can be reviewed; the automated collection and orchestration that make it
+  operational are not, because describing a method is research and shipping
+  it is distribution.
 - Phase 2 records behaviour under a deception participants did not consent to
   in advance. Nothing derived from it can be public, regardless of consent
   obtained afterwards.
