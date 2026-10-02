@@ -124,16 +124,6 @@ warning — is the mechanism that keeps the design both valid and ethical.
 
 ---
 
-## Credits
-
-Built as a collaborative research project. Module authors:
-
-- **Mathilde Lapayre** — NEO PI-R facet prediction from text
-- **Virgil Rigagneau** — personality assessment framework; self-control
-  prediction
-
-With the support of IUT and Universitat Rovira i Virgili (URV).
-
 ## Status
 
 Research in progress. This describes a methodology that has cleared ethics
